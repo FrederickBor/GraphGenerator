@@ -1,0 +1,6 @@
+language: python
+python:
+  - "3.6"      # current default Python on Travis CI
+script:
+  - python3 GraphGenerator.py
+  - python3 unitTest.py
