@@ -1,5 +1,5 @@
 # Graph Generator.
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/frederickbor/GraphGenerator)](LICENSE)
 [![Build Status](https://travis-ci.com/FrederickBor/GraphGenerator.svg?token=HuNyoajcDod2s5H5ssXH&branch=master)](https://travis-ci.com/FrederickBor/GraphGenerator)
 
 ## About this repository.
